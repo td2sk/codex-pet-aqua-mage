@@ -1,0 +1,6 @@
+{
+  "id": "aqua-mage",
+  "displayName": "Aqua Mage",
+  "description": "A compact right-facing blue pixel-art mage pet animated from Veo state frames.",
+  "spritesheetPath": "spritesheet.webp"
+}
